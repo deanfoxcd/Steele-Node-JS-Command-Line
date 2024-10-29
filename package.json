@@ -1,0 +1,13 @@
+{
+  "name": "section-24---node-js-command-line-tools",
+  "version": "1.0.0",
+  "description": "Node JS CLI",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Dean Fox",
+  "license": "ISC",
+  "type": "module",
+  "bin": {
+    "nls": "index.js"
+  }
+}
